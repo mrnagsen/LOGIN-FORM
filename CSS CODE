@@ -1,0 +1,39 @@
+.image_container{
+  text-align: center;
+  background-color:  #EC96A4  ;
+}
+*{
+  background-color: #E6D72A;
+  padding:15px;margin: 10px;
+  
+ 
+}
+h1{
+  text-align: center;
+  background-color: #EC96A4;
+}
+.username{
+  text-align: center;
+  background-color:#5BC8AC ;
+}
+.password{
+  text-align: center;
+  background-color: #5BC8AC;
+}
+.button{
+  text-align: center;
+  padding: 5px;
+  background-color:#EC96A4;
+  margin:10px;
+}
+.checkbox{
+  text-align: center;
+  background-color: #5BC8AC;
+}
+h2{
+  text-align: center;
+  background-color:#EC96A4 ;
+}
+button hover{
+  opacity:0.8;
+}
