@@ -1,3 +1,3 @@
 # LOGIN-FORM
 
-responsive canceo button.
+responsive cancel  button.
